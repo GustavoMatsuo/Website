@@ -1,0 +1,21 @@
+.media-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    margin: 5% 5% 0% 5% ; 
+}
+.media-content {
+    display: flex;
+    flex-direction: column;
+}
+.media-icon {
+    width: 35px;
+    height: 35px;
+    margin-bottom: 25px; 
+}
+.media-bar {
+    height: 150px;
+    width: 4px;
+    background-color: #FF0000;
+}

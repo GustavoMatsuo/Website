@@ -1,0 +1,28 @@
+.header-area {
+    margin: 5% 0% 5% 5%;
+    padding: 0px;
+}
+.top-bar {
+    width: 35px;
+    height: 4px;
+    background-color: #FF0000;
+}
+.header-title {
+    margin: 0px;
+    color: #FFFFFF;
+    padding: 5px 5px 5px 0px;
+    font-size: 18px;
+}
+.header-content {
+    margin: 0px;
+    width: 100%;
+    color: #FFFFFF;
+    font-size: 36px;
+}
+.header-paragraf {
+    margin: 0px;
+    color: rgba(214, 214, 214, 0.5);
+    font-size: 12px;
+    width: 60%;
+    padding: 5px 5px 5px 0px;
+}

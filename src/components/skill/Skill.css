@@ -1,0 +1,28 @@
+.skill-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1b1b1b;
+    padding-top: 30px;
+}
+.skill-top {
+    width: 90%;
+    height: 2px;
+    background-image: linear-gradient(to left, #1a2a6c, #b21f1f, #fdbb2d);
+}
+.skill-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly ;
+    color: #FFFFFF;
+    width: 90%;
+}
+.skill-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 5px 0px 5px;
+    width: 112px;
+}
