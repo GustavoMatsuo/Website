@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Website/static/css/main.54ec06ff.chunk.css",
+    "main.js": "/Website/static/js/main.9845e954.chunk.js",
+    "main.js.map": "/Website/static/js/main.9845e954.chunk.js.map",
+    "runtime-main.js": "/Website/static/js/runtime-main.8f32a843.js",
+    "runtime-main.js.map": "/Website/static/js/runtime-main.8f32a843.js.map",
+    "static/js/2.8c2c6619.chunk.js": "/Website/static/js/2.8c2c6619.chunk.js",
+    "static/js/2.8c2c6619.chunk.js.map": "/Website/static/js/2.8c2c6619.chunk.js.map",
+    "index.html": "/Website/index.html",
+    "precache-manifest.38b5dea9d4601f93765626bacda88fc7.js": "/Website/precache-manifest.38b5dea9d4601f93765626bacda88fc7.js",
+    "service-worker.js": "/Website/service-worker.js",
+    "static/css/main.54ec06ff.chunk.css.map": "/Website/static/css/main.54ec06ff.chunk.css.map",
+    "static/media/github-1.svg": "/Website/static/media/github-1.dc4a71ba.svg",
+    "static/media/instagram-11.svg": "/Website/static/media/instagram-11.930ab2cc.svg",
+    "static/media/linkedin-3.svg": "/Website/static/media/linkedin-3.ac9ddb23.svg",
+    "static/media/perfil.jpg": "/Website/static/media/perfil.c8bfb9dc.jpg"
+  }
+}
